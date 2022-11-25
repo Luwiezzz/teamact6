@@ -1,0 +1,20 @@
+.contactbg {
+    width: 100%;
+    height: 929px;
+    background: rgba(8,58,169,1);
+    opacity: 1;
+    display: flex;
+}
+
+.header > h1 {
+    width: 395px;
+    color: rgba(253,240,224,1);
+    position: relative;
+    top: 0px;
+    left: 762px;
+    font-family: Alfa Slab One;
+    font-weight: Regular;
+    font-size: 64px;
+    opacity: 1;
+    text-align: left;
+}

@@ -1,0 +1,114 @@
+.netoyz {
+    width: 300px;
+    height: 70px;
+    opacity: 1;
+    position: absolute;
+    top: 24px;
+    left: 155px;
+    overflow: hidden;
+}
+
+.netoyzfont {
+    width: 224px;
+    color: rgba(253,240,224,1);
+    position: absolute;
+    top: 2px;
+    left: 38px;
+    font-family: Alfa Slab One;
+    font-weight: Regular;
+    font-size: 48px;
+    opacity: 1;
+    text-align: left;
+}
+
+.projects {
+    width: 300px;
+    height: 70px;
+    opacity: 1;
+    position: absolute;
+    top: 24px;
+    left: 556px;
+    overflow: hidden;
+}
+
+.projectsfont {
+    width: 224px;
+    color: rgba(253,240,224,1);
+    position: absolute;
+    top: 2px;
+    left: 38px;
+    font-family: Alfa Slab One;
+    font-weight: Regular;
+    font-size: 48px;
+    opacity: 1;
+    text-align: left;
+}
+
+.about {
+    width: 300px;
+    height: 70px;
+    opacity: 1;
+    position: absolute;
+    top: 24px;
+    left: 868px;
+    overflow: hidden;
+}
+
+.aboutfont {
+    width: 224px;
+    color: rgba(253,240,224,1);
+    position: absolute;
+    top: 2px;
+    left: 38px;
+    font-family: Alfa Slab One;
+    font-weight: Regular;
+    font-size: 48px;
+    opacity: 1;
+    text-align: left;
+}
+
+.skills {
+    width: 300px;
+    height: 70px;
+    opacity: 1;
+    position: absolute;
+    top: 24px;
+    left: 1132px;
+    overflow: hidden;
+}
+
+.skillsfont {
+    width: 224px;
+    color: rgba(253,240,224,1);
+    position: absolute;
+    top: 2px;
+    left: 38px;
+    font-family: Alfa Slab One;
+    font-weight: Regular;
+    font-size: 48px;
+    opacity: 1;
+    text-align: left;
+}
+
+.contact {
+    width: 300px;
+    height: 70px;
+    opacity: 1;
+    position: absolute;
+    top: 24px;
+    left: 1420px;
+    overflow: hidden;
+}
+
+.contactfont {
+    width: 224px;
+    color: rgba(253,240,224,1);
+    position: absolute;
+    top: 2px;
+    left: 38px;
+    font-family: Alfa Slab One;
+    font-weight: Regular;
+    font-size: 48px;
+    opacity: 1;
+    text-align: left;
+}
